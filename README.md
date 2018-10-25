@@ -1,3 +1,8 @@
 # Hello-World
 
-Today my dog is 3 years old
+
+# let's try to learn git/github! 
+
+# changing inside gitbash!
+change one
+change two
